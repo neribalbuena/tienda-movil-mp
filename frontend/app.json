@@ -13,6 +13,16 @@
     "plugins": [
       "expo-router",
       "expo-asset"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "a2ec7540-753d-453c-8c35-9ea99b7c4338"
+      }
+    }
   }
 }
