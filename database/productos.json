@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Inalámbricos Pro",
+    "descripcion": "Cancelación activa de ruido, 30h de batería y estuche USB-C.",
+    "precio": 89900,
+    "imagen": "https://picsum.photos/seed/prod1/600/600",
+    "categoria": "Audio",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico Compacto 65%",
+    "descripcion": "Switches táctiles silenciosos, retroiluminación LED y cable mallado.",
+    "precio": 74500,
+    "imagen": "https://picsum.photos/seed/prod2/600/600",
+    "categoria": "Periféricos",
+    "stock": 11
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse Ergonómico Inalámbrico",
+    "descripcion": "Sensor de alta precisión, agarre lateral antideslizante y batería recargable.",
+    "precio": 42000,
+    "imagen": "https://picsum.photos/seed/prod3/600/600",
+    "categoria": "Periféricos",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch Deportivo AMOLED",
+    "descripcion": "Monitor de ritmo cardíaco, GPS integrado y resistencia al agua 5ATM.",
+    "precio": 115000,
+    "imagen": "https://picsum.photos/seed/prod4/600/600",
+    "categoria": "Wearables",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "nombre": "Cargador Rápido GaN 65W",
+    "descripcion": "Doble puerto USB-C y un USB-A con protección inteligente contra sobrecarga.",
+    "precio": 34800,
+    "imagen": "https://picsum.photos/seed/prod5/600/600",
+    "categoria": "Energía",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "nombre": "Power Bank 20.000 mAh",
+    "descripcion": "Carga rápida bidireccional, visor digital de porcentaje y diseño compacto.",
+    "precio": 48900,
+    "imagen": "https://picsum.photos/seed/prod6/600/600",
+    "categoria": "Energía",
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "nombre": "Parlante Bluetooth Resistente",
+    "descripcion": "Sonido 360 grados con graves reforzados y certificación IPX6 contra salpicaduras.",
+    "precio": 67000,
+    "imagen": "https://picsum.photos/seed/prod7/600/600",
+    "categoria": "Audio",
+    "stock": 14
+  },
+  {
+    "id": 8,
+    "nombre": "Webcam Full HD 1080p 60fps",
+    "descripcion": "Enfoque automático, micrófono dual con reducción de ruido y clip universal.",
+    "precio": 53200,
+    "imagen": "https://picsum.photos/seed/prod8/600/600",
+    "categoria": "Video",
+    "stock": 9
+  },
+  {
+    "id": 9,
+    "nombre": "Soporte Articulado para Notebook",
+    "descripcion": "Aluminio anodizado, altura regulable y disipación térmica abierta.",
+    "precio": 29500,
+    "imagen": "https://picsum.photos/seed/prod9/600/600",
+    "categoria": "Accesorios",
+    "stock": 22
+  },
+  {
+    "id": 10,
+    "nombre": "Hub USB-C 7 en 1",
+    "descripcion": "Salida HDMI 4K, lector SD/microSD, puertos USB 3.0 y carga passthrough.",
+    "precio": 46400,
+    "imagen": "https://picsum.photos/seed/prod10/600/600",
+    "categoria": "Accesorios",
+    "stock": 16
+  },
+  {
+    "id": 11,
+    "nombre": "Micrófono USB de Condensador",
+    "descripcion": "Patrón cardioide, botón mute táctil y base antivibratoria metálica.",
+    "precio": 82000,
+    "imagen": "https://picsum.photos/seed/prod11/600/600",
+    "categoria": "Audio",
+    "stock": 8
+  },
+  {
+    "id": 12,
+    "nombre": "Aro de Luz LED con Trípode",
+    "descripcion": "Tres temperaturas de color, brillo regulable y soporte ajustable para celular.",
+    "precio": 26800,
+    "imagen": "https://picsum.photos/seed/prod12/600/600",
+    "categoria": "Video",
+    "stock": 19
+  },
+  {
+    "id": 13,
+    "nombre": "SSD Portátil NVMe 1TB",
+    "descripcion": "Transferencias de hasta 1050 MB/s, carcasa metálica y cables USB-C/USB-A.",
+    "precio": 138000,
+    "imagen": "https://picsum.photos/seed/prod13/600/600",
+    "categoria": "Almacenamiento",
+    "stock": 11
+  },
+  {
+    "id": 14,
+    "nombre": "Pad XXL Antideslizante",
+    "descripcion": "Superficie de tela microtejida de baja fricción y bordes cosidos.",
+    "precio": 18500,
+    "imagen": "https://picsum.photos/seed/prod14/600/600",
+    "categoria": "Periféricos",
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "nombre": "Lámpara de Escritorio LED",
+    "descripcion": "Iluminación asimétrica sin reflejos en pantalla y control táctil de intensidad.",
+    "precio": 39900,
+    "imagen": "https://picsum.photos/seed/prod15/600/600",
+    "categoria": "Hogar Tech",
+    "stock": 13
+  },
+  {
+    "id": 16,
+    "nombre": "Cámara de Seguridad Wi-Fi",
+    "descripcion": "Visión nocturna infrarroja, audio bidireccional y detección de movimiento.",
+    "precio": 44500,
+    "imagen": "https://picsum.photos/seed/prod16/600/600",
+    "categoria": "Hogar Tech",
+    "stock": 17
+  },
+  {
+    "id": 17,
+    "nombre": "Cable Magnético USB-C a USB-C 2m",
+    "descripcion": "Soporta hasta 100W PD y 480 Mbps de transferencia de datos.",
+    "precio": 14200,
+    "imagen": "https://picsum.photos/seed/prod17/600/600",
+    "categoria": "Energía",
+    "stock": 40
+  },
+  {
+    "id": 18,
+    "nombre": "Funda Rígida para Gadgets",
+    "descripcion": "Interior acolchado con compartimentos elásticos para cables, cargadores y discos.",
+    "precio": 21000,
+    "imagen": "https://picsum.photos/seed/prod18/600/600",
+    "categoria": "Accesorios",
+    "stock": 24
+  },
+  {
+    "id": 19,
+    "nombre": "Adaptador Bluetooth 5.3 USB",
+    "descripcion": "Conexión estable de baja latencia para audio y periféricos en PC.",
+    "precio": 16900,
+    "imagen": "https://picsum.photos/seed/prod19/600/600",
+    "categoria": "Conectividad",
+    "stock": 28
+  },
+  {
+    "id": 20,
+    "nombre": "Mochila Porta Notebook 16\"",
+    "descripcion": "Tela repelente al agua, compartimento acolchado y bolsillo oculto antirrobo.",
+    "precio": 64000,
+    "imagen": "https://picsum.photos/seed/prod20/600/600",
+    "categoria": "Accesorios",
+    "stock": 12
+  },
+  {
+    "id": 21,
+    "nombre": "Sonajero",
+    "descripcion": "Sonajero Hipoalergénico Amigurumi - Rosa bebé",
+    "precio": 1,
+    "imagen": "https://acdn-us.mitiendanube.com/stores/001/678/927/products/whatsapp_image_2024-08-14_at_13-53-52-removebg-preview-57e7205dea8c9eba6417254754590912-640-0.webp",
+    "categoria": "Accesorios",
+    "stock": 10
+  }
+]

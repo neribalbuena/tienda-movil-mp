@@ -1,0 +1,48 @@
+[
+  {
+    "numeroOrden": "ORD-708002-686",
+    "total": 74500,
+    "comprador": {
+      "nombreApellido": "Neri Balbuena",
+      "email": "nerybalbuena293@gmail.com",
+      "direccion": "Aya cuchillo e/ hansen y güemes",
+      "localidad": "Brandsen",
+      "codigoPostal": "1980"
+    },
+    "items": [
+      {
+        "id": 2,
+        "nombre": "Teclado Mecánico Compacto 65%",
+        "precio": 74500,
+        "cantidad": 1
+      }
+    ],
+    "modoPago": "mercadopago",
+    "mpPreferenceId": "1255103918-120c9758-d353-4676-b17c-5cee4f32dc94",
+    "mpCheckoutUrl": "https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=1255103918-120c9758-d353-4676-b17c-5cee4f32dc94",
+    "fecha": "2026-11-23T18:15:10.004Z"
+  },
+  {
+    "numeroOrden": "ORD-198164-380",
+    "total": 1,
+    "comprador": {
+      "nombreApellido": "Neri",
+      "email": "nerybalbuena293@gmail.com",
+      "direccion": "Ayacucho e/hansen y güemes",
+      "localidad": "Brandsen",
+      "codigoPostal": "1980"
+    },
+    "items": [
+      {
+        "id": 21,
+        "nombre": "Sonajero",
+        "precio": 1,
+        "cantidad": 1
+      }
+    ],
+    "modoPago": "mercadopago",
+    "mpPreferenceId": "1255103918-d55f72db-9531-4255-b455-dd2fe3131a9e",
+    "mpCheckoutUrl": "https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=1255103918-d55f72db-9531-4255-b455-dd2fe3131a9e",
+    "fecha": "2026-11-23T18:23:20.000Z"
+  }
+]

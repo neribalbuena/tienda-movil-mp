@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Tienda Móvil",
+    "slug": "tienda-movil-simple",
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "scheme": "tiendamovilsimple",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.dam.tiendamovilsimple"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset"
+    ]
+  }
+}
