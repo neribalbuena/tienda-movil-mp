@@ -157,7 +157,7 @@
     "nombre": "Funda Rígida para Gadgets",
     "descripcion": "Interior acolchado con compartimentos elásticos para cables, cargadores y discos.",
     "precio": 21000,
-    "imagen": "https://picsum.photos/seed/prod18/600/600",
+    "imagen": "",
     "categoria": "Accesorios",
     "stock": 24
   },
@@ -166,7 +166,7 @@
     "nombre": "Adaptador Bluetooth 5.3 USB",
     "descripcion": "Conexión estable de baja latencia para audio y periféricos en PC.",
     "precio": 16900,
-    "imagen": "https://picsum.photos/seed/prod19/600/600",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/001/678/927/products/whatsapp_image_2024-08-14_at_13-53-52-removebg-preview-57e7205dea8c9eba6417254754590912-640-0.webp",
     "categoria": "Conectividad",
     "stock": 28
   },
@@ -175,7 +175,7 @@
     "nombre": "Mochila Porta Notebook 16\"",
     "descripcion": "Tela repelente al agua, compartimento acolchado y bolsillo oculto antirrobo.",
     "precio": 64000,
-    "imagen": "https://picsum.photos/seed/prod20/600/600",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/001/678/927/products/whatsapp_image_2024-08-14_at_13-53-52-removebg-preview-57e7205dea8c9eba6417254754590912-640-0.webp",
     "categoria": "Accesorios",
     "stock": 12
   },
